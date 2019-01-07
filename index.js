@@ -60,7 +60,7 @@ if (!global.L) {
     };
 
     L.Map.prototype.saveImage = function (outfilename, callback) {
-        var leafletImage = require('leaflet-image');
+        var leafletImage = require('leaflet-image-with-opacity');
         var fs = require('fs');
 
         leafletImage(this, function (err, canvas) {
