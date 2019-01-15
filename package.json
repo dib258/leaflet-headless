@@ -1,6 +1,6 @@
 {
   "name": "leaflet-headless-with-opacity",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "description": "Leaflet for node. With a forked version of leaflet-image since the repository is not maintained anymore",
   "main": "index.js",
   "browser": "browser.js",
@@ -21,7 +21,7 @@
     "canvas": "~1.6.2",
     "jsdom": "~9.8.3",
     "leaflet": "^1.0.3",
-    "leaflet-image-with-opacity": "^0.4.1",
+    "leaflet-image-with-opacity": "^0.4.2",
     "request": "^2.65.0"
   },
   "devDependencies": {
