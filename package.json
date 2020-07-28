@@ -1,6 +1,6 @@
 {
   "name": "leaflet-headless-with-opacity",
-  "version": "0.2.11",
+  "version": "0.2.12",
   "description": "Leaflet for node. With a forked version of leaflet-image since the repository is not maintained anymore",
   "main": "index.js",
   "browser": "browser.js",
